@@ -21,3 +21,6 @@ LLaMA 3.2 Vision is a powerful multi-modal model suited for various applications
 - **Object Detection**: Identifies objects within images, useful in fields like security and autonomous systems.
 - **Content Moderation**: Filters visual content to ensure it meets platform standards.
 - **Research and Experimentation**: Provides a budget-friendly option for exploring vision models.
+
+## Additional Resources
+For more information, visit my detailed [Medium article](https://iamshobhitagarwal.medium.com/running-ollamas-llama-3-2-vision-model-on-google-colab-free-and-easy-guide-a38136902918)
