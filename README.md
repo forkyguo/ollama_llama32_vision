@@ -1,6 +1,8 @@
 # ollama_llama32_vision
 Guide and code for running the Ollama LLaMA 3.2 Vision model on Google Colab for free
 
+https://generativeai.pub/running-ollamas-llama-3-2-vision-model-on-google-colab-free-and-easy-guide-a38136902918
+
 # Ollama LLaMA 3.2 Vision Model on Google Colab
 
 This repository provides code and instructions to run the **Ollama LLaMA 3.2 Vision** model on **Google Colab** free of charge. Leveraging Colab’s environment, you’ll be able to experiment with this advanced vision model, ideal for tasks that combine image processing and language understanding.
